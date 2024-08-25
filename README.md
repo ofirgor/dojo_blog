@@ -20,3 +20,6 @@ Dojo Blog is a simple React application created as a learning project to practic
 - Backend Integration: Connect the app to a backend service for dynamic blog content.
 - User Authentication: Add user login and authentication features.
 - Styling Enhancements: Improve the UI/UX with advanced styling techniques.
+
+### Credits
+This project was created with the help of @NetNinja YouTube channel
